@@ -1,0 +1,44 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font: size 14px;;
+}
+
+
+.login {
+
+width: 350px;
+margin: 100px auto;
+}
+
+.error{
+    background-color: red;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.info{
+    background-color: rgb(9, 185, 67);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+input {
+
+    display: block;
+    width: 500px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+
+button {
+
+    display: block;
+    width: 500px;
+    padding: 10px;
+    box-sizing: border-box;
+
+
+}
+

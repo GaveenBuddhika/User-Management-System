@@ -1,0 +1,50 @@
+*{margin: 0;}
+header{
+
+background: rgb(192, 186, 186);
+overflow: auto;
+padding: 10px;
+
+}
+
+
+.appname{
+
+float:left;
+
+}
+ 
+.loggedin{
+
+float:right;
+    
+ }
+
+main {
+	width: 1000px;
+	margin: 30px auto;
+}
+
+main h1 {
+	margin-bottom: 20px;
+	font-size: 50px;
+}
+
+main h1 span {
+	font-size: 20px;
+}
+
+table.masterlist {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+table.masterlist th {
+	background: #aaa;
+	text-align: left;
+}
+
+table.masterlist th, table.masterlist td {
+	padding: 10px;
+	border-bottom: 1px solid #aaa;
+}
