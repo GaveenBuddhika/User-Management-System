@@ -10,10 +10,10 @@ User profile management, allowing users to view and update their information.
 Admin panel (optional) for managing user accounts and roles.
 
 ## Technologies Used ##
-HTML5: Defines the structure and content of the web pages.
-CSS3: Styles the visual appearance of the user interface.
-PHP: Handles server-side logic, database interactions, and form processing.
-MySQL: Stores user data securely in a relational database.
+- HTML5: Defines the structure and content of the web pages.
+- CSS3: Styles the visual appearance of the user interface.
+- PHP: Handles server-side logic, database interactions, and form processing.
+- MySQL: Stores user data securely in a relational database.
 
 ## Getting Started ##
 Clone this repository to your local machine.
