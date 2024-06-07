@@ -4,10 +4,10 @@
 This project demonstrates a simple user management system built using HTML, CSS, PHP, and MySQL. It showcases fundamental web development techniques for user registration, authentication, and profile management.
 
 ## Features ##
-User registration with validation for email uniqueness and password strength.
-Secure login and password hashing for data protection.
-User profile management, allowing users to view and update their information.
-Admin panel (optional) for managing user accounts and roles.
+- User registration with validation for email uniqueness and password strength.
+- Secure login and password hashing for data protection.
+- User profile management, allowing users to view and update their information.
+- Admin panel (optional) for managing user accounts and roles.
 
 ## Technologies Used ##
 - HTML5: Defines the structure and content of the web pages.
@@ -16,10 +16,10 @@ Admin panel (optional) for managing user accounts and roles.
 - MySQL: Stores user data securely in a relational database.
 
 ## Getting Started ##
-Clone this repository to your local machine.
-Set up a MySQL database and create the necessary tables (refer to the database.sql file).
-Update the database connection details in the config.php file.
-Access the project in your web browser (usually through a web server like Apache or Nginx).
+- Clone this repository to your local machine.
+- Set up a MySQL database and create the necessary tables (refer to the database.sql file).
+- Update the database connection details in the config.php file.
+- Access the project in your web browser (usually through a web server like Apache or Nginx).
 
 ## Usage ##
 Users can register by providing their name, email, and password.
