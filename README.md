@@ -31,3 +31,6 @@ Admins (if implemented) can manage user accounts and roles through the admin pan
 Suggest new features or improvements.
 Report bugs or issues.
 Submit pull requests with code changes.
+
+## Screenshot
+![project6-min](https://github.com/GaveenBuddhika/User-Management-System/assets/118238999/86009f64-5216-4a81-a6c9-e73fdf25b914)
